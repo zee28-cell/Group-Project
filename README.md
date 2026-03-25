@@ -1,5 +1,5 @@
 Music & Mental Health Analysis
-OMIS 3020 — Group Project
+OMIS 3020 - Group Project
 This project analyzes the relationship between music listening habits and self-reported mental health outcomes using a publicly available survey dataset of 736 respondents.
 Research Questions
 
